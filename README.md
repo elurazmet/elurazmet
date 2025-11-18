@@ -1,49 +1,46 @@
 <div align="center">
 
-  <img src="https://github.com/elurazmet/elurazmet/blob/main/assets/header.webp?raw=true" alt="Header" width="100%"/>
+  <img src="https://github.com/elurazmet/elurazmet/blob/main/assets/header.webp?raw=true" alt="Header Banner" width="100%"/>
   
-  <h1>Hey there, I'm Urazmet</h1>
+  <h1>Hey there, I'm Urazmet 👋</h1>
   
   <p>
-    <strong>Full-Stack Developer • Clean code enthusiast • Building things that scale</strong>
+    <strong>Full-Stack Developer • Clean code enthusiast • Building fast & scalable things</strong>
   </p>
 
   <br>
 
-  <!-- Social Badges -->
+  <!-- Social -->
   <a href="https://x.com/ElUrazmetov">
-    <img src="https://img.shields.io/badge/X%20(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" alt="X/Twitter"/>
-  </a>
-  <a href="https://t.me/elurazmet">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X/Twitter"/>
   </a>
 
-  <br><br>
+  <br><br><br>
 
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=elurazmet&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="185"/>
+  <!-- Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=elurazmet&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" height="190"/>
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elurazmet&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="185"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elurazmet&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" height="190"/>
 
   <br><br>
 
-  <!-- Streak & Activity -->
-  <img src="https://streak-stats.demolab.com?user=elurazmet&theme=tokyonight&hide_border=true&fire=FF6B6B&currStreakLabel=FFFFFF&ring=FF6B6B&background=0D1117" alt="GitHub Streak" width="49.5%"/>
+  <!-- Streak + Activity Graph -->
+  <img src="https://streak-stats.demolab.com?user=elurazmet&theme=radical&hide_border=true&background=0D1117&ring=FF6B6B&fire=FF6B6B&currStreakLabel=FFFFFF" width="49.5%"/>
   
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=elurazmet&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=FF6B6B&line=FF6B6B&point=FFFFFF" alt="Contribution Graph" width="49.5%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=elurazmet&theme=radical&hide_border=true&bg_color=0D1117&line=FF6B6B&point=FFFFFF" width="49.5%"/>
 
   <br><br>
 
-  <!-- Profile Views -->
-  <img src="https://komarev.com/ghpvc/?username=elurazmet&label=Profile+views&color=ff6b6b&style=for-the-badge" alt="Profile views"/>
+  <!-- Views -->
+  <img src="https://komarev.com/ghpvc/?username=elurazmet&label=Profile+views&color=ff6b6b&style=for-the-badge"/>
 
   <br><br>
 
-  <img src="https://github.com/elurazmet/elurazmet/blob/main/assets/quickdraw.gif?raw=true" alt="Quickdraw" width="120"/>
+  <img src="https://github.com/elurazmet/elurazmet/blob/main/assets/quickdraw.gif?raw=true" alt="Quickdraw" width="110"/>
 
 </div>
 
 ---
 
-**Feel free to star my repos if you find them useful**  
-**Open to collaboration & freelance work** — DM me on [X](https://x.com/ElUrazmetov) or Telegram
+**Like what you see? Star my repos**  
+**Open to interesting projects & collabs** — just DM me on X
