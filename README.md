@@ -43,7 +43,7 @@
 
 </div>
 
----
+--
 
 **Feel free to star my repos if you find them useful**  
 **Open to collaboration & freelance work** — DM me on [X](https://x.com/ElUrazmetov) or Telegram
