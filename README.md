@@ -3,7 +3,7 @@
   <img width="600" height="200" alt="image" src="https://github.com/user-attachments/assets/846ce157-f2f1-4d4d-a541-e57c34a49b30" />
 
   
-  <h1>Hey there, I'm Urazmet 👋</h1>
+  <h1>Hey there, I'm Elurazmet 👋</h1>
   
   <p>
     <strong>Full-Stack Developer • Clean code enthusiast • Building fast & scalable things</strong>
